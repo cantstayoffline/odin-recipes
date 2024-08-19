@@ -1,0 +1,15 @@
+/* styles.css */
+
+.Header {
+    color: orange;
+    text-align: center;
+}
+.body {
+ font-size: medium;
+ font-weight: bold;
+ font-style: "Times New Roman";
+ text-align: center;
+}
+.img1 {
+    text-align: center;
+}
